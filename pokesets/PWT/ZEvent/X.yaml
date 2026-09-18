@@ -45,7 +45,7 @@ evs: {hp: 48, atk: 119, def: 47, spA: 57, spD: 26, spe: 122}
 species: Quagsire
 ingamename: "MR"
 displayname: "MR"
-setname: ZPP X
+setname: ZPP X-b
 tags: [in-game, PWT-ZEvent, trainer+zevent]
 item: [null]
 ability: [Water Absorb]
@@ -67,7 +67,7 @@ evs: {hp: 19, atk: 30, def: 25, spA: 28, spD: 30, spe: 28}
 species: Quagsire
 ingamename: "AAABW6NÇÇW"
 displayname: "AAAAABW6NÇÇW"
-setname: ZPP X
+setname: ZPP X-a
 tags: [in-game, PWT-ZEvent, trainer+zevent]
 item: [null]
 ability: [Damp]
